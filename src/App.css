@@ -1,0 +1,117 @@
+ 
+ ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
+ul li {
+  border: 1px solid #ddd; /* Add a thin border to each list item */
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6; /* Add a grey background color */
+  padding: 12px; /* Add some padding */
+}
+ 
+.but{
+
+  width: 100%;
+}
+
+.footer {
+ 
+  height: 100px;; 
+  width: 100%;
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+ 
+ .choose
+ {
+  height: 400px;
+
+ }
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.logo{
+  height: 22vmin;
+  border-radius: 50%;
+}
+.auto{
+
+  height: 300px;
+width: 250px;
+object-fit: cover;
+
+}
+.nav{
+
+  height: 13vmin;
+}
+body{
+  max-width: 100%;
+  overflow-x: hidden;
+
+
+  background-image: url('ukraine2.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.header {
+  background-color: #282c34;
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Underheader
+{
+  background-color: #282c34;
+  min-height: 15vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+
+.container{
+
+width: 100%;
+
+
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
