@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sg-taxi/static/css/main.92fd2992.css",
+    "main.js": "/sg-taxi/static/js/main.c5f47c8e.js",
+    "static/media/caddy.jpg": "/sg-taxi/static/media/caddy.e58db692923c0626ae16.jpg",
+    "static/media/audi1.jpg": "/sg-taxi/static/media/audi1.cb4446e3bacb356fe4e2.jpg",
+    "static/media/ukraine2.jpeg": "/sg-taxi/static/media/ukraine2.0a4f3edebffdd4a1edaf.jpeg",
+    "static/media/logo1.jpg": "/sg-taxi/static/media/logo1.970a8a45199ddb4bb8c9.jpg",
+    "index.html": "/sg-taxi/index.html",
+    "main.92fd2992.css.map": "/sg-taxi/static/css/main.92fd2992.css.map",
+    "main.c5f47c8e.js.map": "/sg-taxi/static/js/main.c5f47c8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92fd2992.css",
+    "static/js/main.c5f47c8e.js"
+  ]
+}
