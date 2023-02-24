@@ -1,4 +1,4 @@
-const API_BASE_URL_DEVELOPMENT: string  = 'https://taxiserver.azurewebsites.net/';
+const API_BASE_URL_DEVELOPMENT: string  = 'https://testazure1234.azurewebsites.net';
 const API_BASE_URL_PRODUCTION :string = 'https://aspnetcorereacttutorial-aspnetserver.azurewebsites.net';
 
 
